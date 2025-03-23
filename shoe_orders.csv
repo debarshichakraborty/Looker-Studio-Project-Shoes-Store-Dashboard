@@ -1,0 +1,33 @@
+Order Number,Order Date,Customer Name,City,State,Order Type,Product,Category,Cost Per Unit,Selling Price/Unit,Quantity,Cost,Sales Amount
+Or_1001,01-01-2020,Rajesh Shinde,Mumbai,Maharashtra,On Shop,Single Monk,Casual,4500,6000,2,9000,12000
+Or_1002,01-01-2020,Rahul Kale,Delhi,Delhi,On Shop,Single Monk,Casual,4500,6000,2,9000,12000
+Or_1003,01-01-2020,Mohammed Abdul Kaleem,Bangalore,Karnataka,On Shop,Single Monk,Casual,4500,6000,1,4500,6000
+Or_1004,01-01-2020,Chandrakant Soni,Hyderabad,Andhra Pradesh,On Shop,Single Monk,Casual,4500,6000,4,18000,24000
+Or_1005,01-01-2020,Rohan Kale,Ahmedabad,Gujarat,On Shop,Loafers,Formal,3700,4450,2,7400,8900
+Or_1006,01-01-2020,Aniruddha Kekapure,Chennai,Tamil Nadu,On Shop,Loafers,Formal,3700,4450,3,11100,13350
+Or_1007,01-01-2020,Aslam Raza,Kolkata,West Bengal,On Shop,Loafers,Formal,3700,4450,2,7400,8900
+Or_1008,01-01-2020,Roshan Sameer,Surat,Gujarat,On Shop,Loafers,Formal,3700,4450,3,11100,13350
+Or_1009,02-01-2020,Rakesh Kumar Sharma,Pune,Maharashtra,Online Order,Derby Shoes,Casual,2500,3350,3,7500,10050
+Or_1010,02-01-2020,Shiv Anand Sahani,Jaipur,Rajasthan,Online Order,Derby Shoes,Casual,2500,3350,1,2500,3350
+Or_1011,02-01-2020,Kuntal Patra,Lucknow,Uttar Pradesh,Online Order,Derby Shoes,Casual,2500,3350,1,2500,3350
+Or_1012,02-01-2020,Bijendra Singh,Kanpur,Uttar Pradesh,Online Order,Derby Shoes,Casual,2500,3350,2,5000,6700
+Or_1013,02-01-2020,Kranti Bheke,Nagpur,Maharashtra,Online Order,Derby Shoes,Casual,2500,3350,3,7500,10050
+Or_1014,02-01-2020,Jagdeep Pawar,Indore,Madhya Pradesh,Online Order,Derby Shoes,Casual,2500,3350,4,10000,13400
+Or_1015,02-01-2020,Adhir Samal,Thane,Maharashtra,Online Order,Derby Shoes,Casual,2500,3350,1,2500,3350
+Or_1016,02-01-2020,Dannana Jhammi,Bhopal,Madhya Pradesh,Online Order,Derby Shoes,Casual,2500,3350,2,5000,6700
+Or_1017,02-01-2020,Vipin Kumar,Visakhapatnam,Andhra Pradesh,On Shop,Sneakers,Formal,3500,4750,4,10000,13400
+Or_1018,02-01-2020,Ranjeet Kumar,Pimpri and Chinchwad,Maharashtra,On Shop,Sneakers,Formal,3500,4750,3,7500,10050
+Or_1019,03-01-2020,Sajal Singhal,Patna,Bihar,On Shop,Sneakers,Formal,3500,4750,3,7500,10050
+Or_1020,03-01-2020,Akhilesh Kumar,Vadodara,Gujarat,On Shop,Oxford Shoes,Formal,3800,4430,1,3500,4750
+Or_1021,03-01-2020,Suvankar Chakraborty,Ghaziabad,Uttar Pradesh,On Shop,Oxford Shoes,Formal,3800,4430,1,3500,4750
+Or_1022,03-01-2020,Suvankar Adhikari,Ludhiana,Punjab,On Shop,Sneakers,Formal,3500,4750,3,10500,14250
+Or_1023,03-01-2020,Rahul Kumar Prajapati,Agra,Uttar Pradesh,On Shop,Sneakers,Formal,3500,4750,1,3800,4430
+Or_1024,08-01-2020,Sagar Jeur,Nashik,Maharashtra,On Shop,Sneakers,Formal,3500,4750,1,3800,4430
+Or_1025,08-01-2020,Harsh Kushik Mane,Faridabad,Haryana,On Shop,Sneakers,Formal,3500,4750,1,3500,4750
+Or_1026,08-01-2020,Ashish Kumar,Meerut,Uttar Pradesh,On Shop,Sneakers,Formal,3500,4750,3,10500,14250
+Or_1027,08-01-2020,Javed Akhter,Rajkot,Gujarat,On Shop,Sneakers,Formal,3500,4750,3,10500,14250
+Or_1028,08-01-2020,Haridas Balraj,Kalyan and Dombivli,Maharashtra,On Shop,Sneakers,Formal,3500,4750,3,10500,14250
+Or_1029,08-01-2020,Kundan Kumar,Vasai Virar,Maharashtra,On Shop,Single Monk,Casual,4500,6000,4,14000,19000
+Or_1030,20-01-2020,Atif Siddiqui,Varanasi,Uttar Pradesh,On Shop,Single Monk,Casual,4501,6001,3,10500,14250
+Or_1031,20-01-2020,Aditya Agarwal,Srinagar,Jammu and Kashmir,On Shop,Single Monk,Casual,4502,6002,4,14000,19000
+Or_1032,20-01-2020,Firdous Jabee,Aurangabad,Maharashtra,On Shop,Single Monk,Casual,4503,6003,3,13500,18000
